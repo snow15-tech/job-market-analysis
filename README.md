@@ -30,22 +30,6 @@ Pandas	Data Processing
 NumPy	Numerical Computation
 Matplotlib	Data Visualization
 
-📂 Project Structure
-Job-Market-Analysis/
-│
-├── app.py                     # Main Streamlit application
-├── market_dashboard.py        # Dashboard module
-├── career_recommendation.py   # Career recommendation module
-├── datasets/
-│   ├── jobs.csv
-│   └── skills.csv
-│
-├── images/
-│   └── dashboard.png
-│
-├── requirements.txt
-└── README.md
-
 🚀 Installation
 Step 1: Clone the Repository
 git clone https://github.com/snow15-tech/job-market-analysis.git
